@@ -1,2 +1,2 @@
 # Hello World!
-#It's Izabel Smid
+It's Izabel Smid
